@@ -521,6 +521,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 
 ## M - O
 
+- [MacWell](https://www.macwell.co/) | Helsinki | London | New York | Explore Macwell's innovative branding and digital marketing solutions for technology, science, and engineering brands.
 - [Made Tech](https://www.madetech.com/careers) | London, UK | [Our hiring process](https://github.com/madetech/handbook/tree/master/guides/hiring#20-minute-phone-conversation)
 - [Magical](https://magical.team/work) | Tel Aviv, Israel; Remote | Culture fit interview + take home assignment, followed by a technical interview, and a CTO interview.
 - [Magnetis](https://magnetis.workable.com) | São Paulo, Brazil & Remote | Phone interview + take home assignment, followed by pair programming and informal meeting with the team.
